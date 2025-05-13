@@ -3,7 +3,7 @@
 
 ## Python 
 The following two Python functions should be executed with the common workflow language (CWL):
-``python
+```python
 def get_sum(x, y):
     return x + y
     
