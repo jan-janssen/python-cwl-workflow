@@ -1,0 +1,6 @@
+x_file: 
+  class: File
+  path: one.pickle
+y_file: 
+  class: File
+  path: two.pickle
